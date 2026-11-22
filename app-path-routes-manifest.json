@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/explore/page": "/explore",
+  "/help/page": "/help",
+  "/icon.svg/route": "/icon.svg",
+  "/my-list/page": "/my-list",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/settings/page": "/settings",
+  "/title/[id]/page": "/title/[id]",
+  "/watch/[id]/page": "/watch/[id]"
+}
